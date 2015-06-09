@@ -1,16 +1,16 @@
 # galactic-fuel-cms
-Galactic Fuel CMS is an enhanced, Twitter Bootstrap-powered version of Fuel CMS developed by Galactic Web.
-http://www.galacticweb.de
+**Galactic Fuel CMS** is an enhanced, Twitter Bootstrap-powered version of Fuel CMS developed by Galactic Web.
+[galacticweb.de](http://www.galacticweb.de)
 
 Galactic Fuel CMS is a fully featured Content Management System with a focus on usability, responsiveness and full control. It is based on Daylight Studio’s Fuel CMS (https://github.com/daylightstudio/FUEL-CMS) and CodeIgniter. 
-To get you started quickly, we added a simple demo page demonstrating Galactic Fuel CMS’s main functions. Also visit our How-To guides on http://galacticweb.de/blog/categories/galactic-fuel-cms to get more information.
+To get you started quickly, we added a simple **demo page** demonstrating Galactic Fuel CMS’s main functions. Also visit our How-To guides on http://galacticweb.de/blog/categories/galactic-fuel-cms to get more information.
 
 
-## Installation:
-Please visit http://galacticweb.de/blog/categories/galactic-fuel-cms for more information on how to install Galactic Fuel CMS.
+### Installation:
+Please visit our [Galactic Web Blog](http://galacticweb.de/blog/categories/galactic-fuel-cms) for more information on how to install Galactic Fuel CMS.
 
 
-## Changes:
+### Changes:
 Important things we changed (compared to classic Fuel CMS):
 
 - added Twitter Bootstrap support and a new backend look & feel
@@ -32,10 +32,10 @@ Important things we changed (compared to classic Fuel CMS):
 - included demo page & layout
 
 
-## License
+### License
 Galactic Fuel CMS is licensed under Apache 2. The full text of the license can be found in the fuel/licenses/galactic_fuel_license.txt file.
 
 
-## Questions:
-Visit http://galacticweb.de/blog/categories/galactic-fuel-cms and drop us a mail for questions.
+### Questions:
+Visit [galacticweb.de/blog/categories/galactic-fuel-cms](http://galacticweb.de/blog/categories/galactic-fuel-cms) and drop us a mail for questions.
 
