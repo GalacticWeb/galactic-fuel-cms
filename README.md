@@ -2,7 +2,7 @@
 Galactic Fuel CMS is an enhanced, Twitter Bootstrap-powered version of Fuel CMS developed by Galactic Web.
 http://www.galacticweb.de
 
-Galactic Fuel CMS is a fully featured Content Management System with a focus on usability, responsiveness and full control. It is based on Daylight Studio’s Fuel CMS and CodeIgniter. 
+Galactic Fuel CMS is a fully featured Content Management System with a focus on usability, responsiveness and full control. It is based on Daylight Studio’s Fuel CMS (https://github.com/daylightstudio/FUEL-CMS) and CodeIgniter. 
 To get you started quickly, we added a simple demo page demonstrating Galactic Fuel CMS’s main functions. Also visit our How-To guides on http://galacticweb.de/blog/categories/galactic-fuel-cms to get more information.
 
 
@@ -30,6 +30,10 @@ Important things we changed (compared to classic Fuel CMS):
 - updated ‘jQuery UI’ to current version (and deactivating big parts like tooltip, due to the use of Bootstrap's better components)
 
 - included demo page & layout
+
+
+## License
+Galactic Fuel CMS is licensed under Apache 2. The full text of the license can be found in the fuel/licenses/galactic_fuel_license.txt file.
 
 
 ## Questions:
